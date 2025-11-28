@@ -81,7 +81,7 @@ Siga os passos abaixo para rodar a interface em seu ambiente local.
 
 #### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/accessible-bot/accessible-bot-frontend.git](https://github.com/accessible-bot/accessible-bot-frontend.git)
+git clone [[https://github.com/accessible-bot/accessible-bot-frontend.git](https://github.com/accessible-bot/accessible-bot-frontend.git)](https://github.com/App-AutBot/autBot-frontend.git)
 cd accessible-bot-frontend
 ```
 
