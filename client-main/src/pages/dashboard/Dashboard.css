@@ -1,0 +1,21 @@
+.dashboard-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.dashboard-cards {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.dashboard-chart-area {
+  position: absolute;
+  top: 140px;
+  left: 350px;
+  width: calc(100% - 380px);
+}
+
